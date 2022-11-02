@@ -1,4 +1,4 @@
-All documentation is created for the project [TODO App](https://github.com/un1corny/react-todo-app).
+Documentation created for the project [TODO App](https://github.com/un1corny/react-todo-app).
 ### Mindmaps
 
 ### Flowcharts
